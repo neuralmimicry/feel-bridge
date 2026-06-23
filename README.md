@@ -1,5 +1,13 @@
 # feel-bridge
 
+## Sponsor NeuralMimicry
+
+This repository accompanies open research into hybrid analog–analog reservoir computing, bridging GPU firmware physics and memristive neuron dynamics on FPGA. Supporting this work helps fund continued research at the intersection of neuromorphic hardware and AI. NeuralMimicry is an independent open-source initiative and we rely on community support to sustain this work.
+
+**[☕ Support us on Crowdfunder](https://www.crowdfunder.co.uk/p/qr/aWggxwPW?utm_campaign=sharemodal&utm_medium=referral&utm_source=shortlink)**
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18880759.svg)](https://doi.org/10.5281/zenodo.18880759)
 
 **Hybrid analog-analog reservoir computing: bridging GPU firmware physics and memristive neuron dynamics on FPGA**
